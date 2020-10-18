@@ -1,0 +1,1 @@
+﻿New-Item C:\OMSFolder -type Directory | Out-Null
